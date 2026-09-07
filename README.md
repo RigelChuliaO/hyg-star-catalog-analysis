@@ -109,9 +109,9 @@ El notebook espera encontrar `hyg_v42.csv` en su mismo directorio.
 
 ```
 .
-├── 01MIAR_ACT_Rigel_Chulia_Ortega.ipynb   # Análisis completo
+├── 01MIAR_ACT_Rigel_Chulia_Ortega.ipynb  
 ├── requirements.txt
-├── .gitignore                              # Excluye el catálogo descargado
+├── .gitignore                             
 ├── LICENSE
 └── README.md
 ```

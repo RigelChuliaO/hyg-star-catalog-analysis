@@ -8,7 +8,7 @@ Derivación y validación de propiedades físicas estelares a partir de un catá
 
 <!-- Sustituir por el diagrama HR exportado a img/diagrama_hr.png -->
 <p align="center">
-  <img src="img/diagrama_hr.png" alt="Diagrama Hertzsprung-Russell del catálogo HYG v4.2" width="70%">
+  <img src="diagrama_hr.png" alt="Diagrama Hertzsprung-Russell del catálogo HYG v4.2" width="60%">
   <br>
   <em>Diagrama Hertzsprung-Russell construido a partir de las variables derivadas en este análisis.</em>
 </p>

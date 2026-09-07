@@ -10,7 +10,7 @@ Derivación y validación de propiedades físicas estelares a partir de un catá
 <p align="center">
   <img src="diagrama_hr.png" alt="Diagrama Hertzsprung-Russell del catálogo HYG v4.2" width="60%">
   <br>
-  <em>Diagrama Hertzsprung-Russell construido a partir de las variables derivadas en este análisis.</em>
+  <em>Reconstrucción de la constelación de la Osa Mayor apartir de los datos.</em>
 </p>
 
 ---
